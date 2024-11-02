@@ -1,5 +1,4 @@
-# Project Title
-Django CRUD Web Application
+#Django CRUD Web Application
 
 ## Description
 This is a simple Django-based web application that provides full CRUD (Create, Read, Update, Delete) functionality. The project includes user authentication (registration, login, logout) and the ability to manage customer records.
